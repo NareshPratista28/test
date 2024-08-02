@@ -1,0 +1,8 @@
+APP_PORT = 3001
+
+DB_HOST = localhost
+DB_USER = root
+DB_PASSWORD = 
+DB_NAME = project_siswa
+
+ACCESS_TOKEN_SECRET = 
